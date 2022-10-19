@@ -1,6 +1,7 @@
 window.onload = function(){
     
     let nickname = prompt("Enter your nickname!", "GodOfJavaScript");
+    localStorage.setItem('nick', nickname);
 
     let divContainer = document.createElement('div');
     divContainer.classList.add("container");
