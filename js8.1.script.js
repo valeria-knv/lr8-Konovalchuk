@@ -1,3 +1,6 @@
+window.onload=function(){
+    document.getElementById('nick').innerHTML = localStorage.getItem('nick');
+}
 function Img(a, b, c, id)
 {
     if(id == "K"){
