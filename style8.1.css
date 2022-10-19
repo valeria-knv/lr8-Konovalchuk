@@ -128,19 +128,19 @@ body{
         border-radius: 8px;
     }
     .imgK{
-        width: 33%;
+        width: 435px;
     }
     .imgK:hover{
         box-shadow: 0 0 20px red;
     }
     .imgM{
-        width: 33%;
+        width: 435px;
     }
     .imgM:hover{
         box-shadow: 0 0 20px red;
     }
     .imgN{
-        width: 33%;
+        width: 435px;
     }
     .imgN:hover{
         box-shadow: 0 0 20px red;
